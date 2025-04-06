@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment 1 — Compile SU2 from Source
 
 **Name**: Vishal  
@@ -35,3 +36,12 @@ meson compile -C build
 
 output:
 [810/810] Linking target SU2_DOT/src/SU2_DOT
+=======
+# SU2-assignment
+>>>>>>> ac6960b4b83629a50081c8f2aa97ffccee08e19c
+# SU2 Assignment
+
+This repository contains:
+- Compiled SU2 source
+- Screenshot of successful compilation
+- Setup steps for GSoC Qualification Task
